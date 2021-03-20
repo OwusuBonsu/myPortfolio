@@ -12,6 +12,7 @@
 
 .Pic img {
   width: 500px;
+  max-width: 90%;
 }
 
 .Info h1, p{

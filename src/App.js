@@ -13,8 +13,8 @@ function App() {
     </ReactFloaterJs>
 
     <div className="Info">
-      <h1> Who is Owusu?</h1>
-      <p> Uhhh paragraph coming soon O_o</p>
+      <h1> Owusu Bonsu's Portfolio </h1>
+      <p> idk what to put here yet lmao </p>
     </div>
 
     </div>
